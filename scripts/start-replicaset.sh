@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author : Maxime BEUGNET <maxime.beugnet@gmail.com>
 ##################
 # INIT VARIABLES #
 ##################

@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author : Maxime BEUGNET <maxime.beugnet@gmail.com>
 # check first param is not empty
 if [ -z "$1" ]; then
   echo "Usage : $0 [number]";
